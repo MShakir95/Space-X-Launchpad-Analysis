@@ -16,10 +16,12 @@ Launch the Jupyter Notebooks: jupyter notebook
 The project consists of several Jupyter Notebooks that perform different aspects of the data analysis. The notebooks are organized in the following manner:
 
 01_data_collection API.ipynb - collects data from SpaceX's API and stores it in a SQL database (IBM's db2).
-02_data_collection_Webscrapping.ipynb - collects data from SpaceX's Wikipedia entry and stores it in a SQL database (IBM's db2)
+
+02_data_collection_Webscrapping.ipynb - collects data from SpaceX's Wikipedia entry and stores it in a SQL database (IBM's db2).
+
 03_data_wrangling.ipynb - cleans and preprocesses the collected data.
 
-04_SQL_EDA.ipynb - performs exploratory data analysis SQL queries
+04_SQL_EDA.ipynb - performs exploratory data analysis SQL queries.
 
 05_Exploratory_Data_Analysis_Visualization.ipynb - performs the data analysis, including exploratory data analysis and hypothesis testing.
 
@@ -36,7 +38,9 @@ The combined results were presented in a pdf file: SPACEX_LAUNCHPAD_ANALYSIS.pdf
 The data used in this project was obtained from the following sources:
 
 SpaceX API - https://api.spacexdata.com/v4/rockets/
+
 SpaceX Wikipedia entry - https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+
 ## Dependencies
 
 The SpaceX Falcon9 Flight Data Analysis project requires the following dependencies:
