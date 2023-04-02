@@ -6,7 +6,7 @@ The SpaceX Falcon9 Flight Data Analysis project is a data analysis project writt
 
 To use the SpaceX Falcon9 Flight Data Analysis project, follow these steps:
 
-Clone this repository: git clone https://github.com/ShakirMA/Spacex-X-Launchpad-Analysis.git
+Clone this repository: git clone https://github.com/ShakirMA/Space-X-Launchpad-Analysis.git
 Navigate to the project directory: cd Spacex-X-Launchpad-Analysis
 Install the required dependencies: pip install -r requirements.txt
 Launch the Jupyter Notebooks: jupyter notebook
