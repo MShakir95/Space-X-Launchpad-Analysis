@@ -18,9 +18,13 @@ The project consists of several Jupyter Notebooks that perform different aspects
 01_data_collection API.ipynb - collects data from SpaceX's API and stores it in a SQL database (IBM's db2).
 02_data_collection_Webscrapping.ipynb - collects data from SpaceX's Wikipedia entry and stores it in a SQL database (IBM's db2)
 03_data_wrangling.ipynb - cleans and preprocesses the collected data.
+
 04_SQL_EDA.ipynb - performs exploratory data analysis SQL queries
-05_Exploratory_Data_Analysis_Visualization.ipynb - performs the data analysis, including exploratory data analysis and hypothesis testing
+
+05_Exploratory_Data_Analysis_Visualization.ipynb - performs the data analysis, including exploratory data analysis and hypothesis testing.
+
 06_ML_Modelling.ipynb - performs predictive modeling.
+
 07_Dashboard_folium.ipynb - creates visualizations to help communicate the results of the data analysis using an interactive dashboard.
 
 To use the notebooks, launch Jupyter Notebook and navigate to the project directory. Click on the desired notebook to open it and follow the instructions provided within the notebook.
