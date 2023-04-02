@@ -31,8 +31,8 @@ The combined results were presented in a pdf file: SPACEX_LAUNCHPAD_ANALYSIS.pdf
 
 The data used in this project was obtained from the following sources:
 
-SpaceX API - https://docs.spacexdata.com/?version=latest
-SpaceX Wikipedia entry - https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+SpaceX API - https://api.spacexdata.com/v4/rockets/
+SpaceX Wikipedia entry - https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches
 
 ## Dependencies
 
